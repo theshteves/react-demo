@@ -1,3 +1,26 @@
+html {
+  font-size: 16px; /* sets root em (rem) scaling */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.6;
+  font-size: 18px;
+  color: #444040;
+  padding: 0 10px;
+  font-family: sans-serif; 
+  background-color: #eee;
+  min-height: 600px;
+}
+
+
+/* --- create-react-app skeleton --- */
+
+
 .App {
   text-align: center;
 }
