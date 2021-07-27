@@ -1,0 +1,12 @@
+.Header {
+    width: 100%;
+    top: 0;
+    background-color: orange;
+    text-align: center;
+}
+
+.Header h1 {
+    display: inline-block;
+    font-size: 3vw;
+    font-style: monospace;
+}
